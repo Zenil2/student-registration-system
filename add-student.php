@@ -6,7 +6,7 @@
 <html lang="en">
 <body>
     <div class="container">
-        <form action="save-students.php" method="post">
+        <form action="save-student.php" method="post">
             <label for="stud_id">Student ID:</label>
             <input type="text" name="stud_id" id="stud_id" placeholder="e.g.101" required>
             <br>
