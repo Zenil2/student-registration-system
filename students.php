@@ -34,7 +34,9 @@
                 echo "<td>".$student['city']."</td>";
                 echo "<td>".$student['addr']."</td>";
                 echo "<td>
-                <a href = '#'>Edit</a> | <a href = '#'>Delete</a>
+                <a href = 'edit-student.php?id=".$index."'>Edit</a>
+                 |
+                  <a href = 'delete-student.php?id=".$index."'>Delete</a>
                 </td>";
                 echo "</tr>";
                 }

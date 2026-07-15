@@ -15,8 +15,8 @@
             <input type="text" name="name" id="name" placeholder="e.g.John Doe" required>
             <br>
 
-            <label for="Mobile">Mobile:</label>
-            <input type="text" name="Mobile" id="Mobile" placeholder="e.g.12345xxxx" required>
+            <label for="mobile">Mobile:</label>
+            <input type="text" name="mobile" id="mobile" placeholder="e.g.12345xxxx" required>
             <br>
 
             <label for="email">Email:</label>
